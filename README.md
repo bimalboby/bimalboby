@@ -17,8 +17,8 @@ I am full stack dev looking to solve real world problems. I have a passion for l
     <img align="left" alt="JS" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
   <img align="left" alt="JS" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
  <img align="left" alt="JS" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-  <img align="left" alt="JS" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/github.png" />
----
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/#181717.svg" />
+
 <br />
 <br />
 
