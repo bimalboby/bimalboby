@@ -1,4 +1,4 @@
-### Hey there!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px">
 I am full stack dev looking to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible. If you found value in something I have created, please feel free to give me a  ♥ on mail. 
 ---
 - 🔭 I’m currently working on a React Project
