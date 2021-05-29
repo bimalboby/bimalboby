@@ -6,7 +6,7 @@ I am full stack dev looking to solve real world problems. I have a passion for l
 - Reachout to me for any project ideas and I would love to collaborate
 
 
-**📫 Feel free to reach out in case you want to just get in touch also  ** 
+### Feel free to reach out in case you want to just get in touch also  
 
 
 <a href="https://www.linkedin.com/in/bimal-boby-8166591b4/">
