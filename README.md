@@ -9,10 +9,11 @@ I am full stack dev looking to solve real world problems. I have a passion for l
 
 ### Languages and Tools:
 
-<a href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-  <img align="left" alt="JS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
 
+  <img align="left" alt="JS" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+
+<br />
+<br />
 
 ### Feel free to reach out in case you want to just get in touch also  
 
