@@ -17,6 +17,7 @@ I am full stack dev looking to solve real world problems. I have a passion for l
     <img align="left" alt="JS" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
   <img align="left" alt="JS" width="22px" src="https://avatars.githubusercontent.com/u/45120?s=40&v=4" />
    <img align="left" alt="JS" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
+      <img align="left" alt="JS" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
   <img align="left" alt="JS" width="22px" src="https://avatars.githubusercontent.com/u/9919?s=40&v=4" />
 
 <br />
